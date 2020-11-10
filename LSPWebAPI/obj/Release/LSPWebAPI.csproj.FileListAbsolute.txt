@@ -1,0 +1,188 @@
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\LSPWebAPI.dll.config
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\LSPWebAPI.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\LSPWebAPI.pdb
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\csc.exe
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\csc.exe.config
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\csc.rsp
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\csi.exe
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\csi.exe.config
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\csi.rsp
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Console.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\vbc.exe
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\vbc.rsp
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\log4net.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Helpers.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Http.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Mvc.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Optimization.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Razor.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.WebPages.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\WebGrease.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\log4net.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Helpers.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Http.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Mvc.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Optimization.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.Razor.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.WebPages.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\obj\Release\LSPWebAPI.csprojAssemblyReference.cache
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\obj\Release\LSPWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\obj\Release\LSPWebAPI.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\obj\Release\LSPWebAPI.dll
+C:\Users\administarator\source\repos\LearningSP\LSPWebAPI\obj\Release\LSPWebAPI.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\LSPWebAPI.dll.config
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\LSPWebAPI.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\LSPWebAPI.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\csc.exe
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\csc.exe.config
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\csc.rsp
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\csi.exe
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\csi.exe.config
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\csi.rsp
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Console.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\vbc.exe
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\vbc.rsp
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\log4net.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Helpers.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Http.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Mvc.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Optimization.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Razor.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.WebPages.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\WebGrease.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\log4net.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Helpers.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Http.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Mvc.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Optimization.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.Razor.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.WebPages.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\obj\Release\LSPWebAPI.csprojAssemblyReference.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\obj\Release\LSPWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\obj\Release\LSPWebAPI.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\obj\Release\LSPWebAPI.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPWebAPI\obj\Release\LSPWebAPI.pdb

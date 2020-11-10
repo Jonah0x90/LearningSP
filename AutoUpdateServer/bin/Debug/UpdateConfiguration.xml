@@ -1,0 +1,1 @@
+<object type="AutoUpdateLib.UpdateConfiguration,AutoUpdateLib"><property name="ConfigurationPath" value="C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateServer\bin\Debug\UpdateConfiguration.xml" /><property name="FileList"><list element-type="AutoUpdateLib.FileUnit,AutoUpdateLib" /></property><property name="ClientVersion" value="0" /></object>

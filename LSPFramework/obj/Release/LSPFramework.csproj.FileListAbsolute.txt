@@ -1,0 +1,15 @@
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\Release\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\Release\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\Release\QRCoder.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Release\LSPFramework.csprojAssemblyReference.cache
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Release\LSPFramework.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Release\LSPFramework.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Release\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Release\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Release\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Release\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Release\QRCoder.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Release\LSPFramework.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Release\LSPFramework.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Release\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Release\LSPFramework.pdb

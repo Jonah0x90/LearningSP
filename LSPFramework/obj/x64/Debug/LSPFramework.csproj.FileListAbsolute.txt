@@ -1,0 +1,7 @@
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\x64\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\x64\Debug\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\x64\Debug\QRCoder.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\x64\Debug\LSPFramework.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\x64\Debug\LSPFramework.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\x64\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\x64\Debug\LSPFramework.pdb

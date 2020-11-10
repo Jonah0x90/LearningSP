@@ -1,0 +1,11 @@
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\bin\Debug\AutoUpdateLib.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\bin\Debug\AutoUpdateLib.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\bin\Debug\ESBasic.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\bin\Debug\ESFramework.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\bin\Debug\ESBasic.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\bin\Debug\ESFramework.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\obj\Debug\AutoUpdateLib.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\obj\Debug\AutoUpdateLib.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\obj\Debug\AutoUpdateLib.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\obj\Debug\AutoUpdateLib.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\AutoUpdateLib\obj\Debug\AutoUpdateLib.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\Debug\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\bin\Debug\QRCoder.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Debug\LSPFramework.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Debug\LSPFramework.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP\LSPFramework\obj\Debug\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Debug\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Debug\ESBasic.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Debug\QRCoder.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\bin\Debug\ESBasic.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Debug\LSPFramework.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Debug\LSPFramework.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Debug\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSPFramework\obj\Debug\LSPFramework.csprojAssemblyReference.cache

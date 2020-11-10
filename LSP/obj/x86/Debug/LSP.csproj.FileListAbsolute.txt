@@ -1,0 +1,47 @@
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\LSP.exe.config
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\LSP.exe
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\LSP.pdb
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\CefSharp.dll
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\QRCoder.dll
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\CefSharp.xml
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\administarator\source\repos\LearningSP\LSP\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.csprojAssemblyReference.cache
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.Login.resources
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.LSP.resources
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.Properties.Resources.resources
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.csproj.GenerateResource.cache
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.exe
+C:\Users\administarator\source\repos\LearningSP\LSP\obj\x86\Debug\LSP.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.csprojAssemblyReference.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.Login.resources
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.LSP.resources
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.Properties.Resources.resources
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.csproj.GenerateResource.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.csproj.CoreCompileInputs.cache
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\LSP.exe.config
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\LSP.exe
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\LSP.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\CefSharp.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\CefSharp.WinForms.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\LSPFramework.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\QRCoder.dll
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\LSPFramework.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\CefSharp.WinForms.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\CefSharp.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.csproj.CopyComplete
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.exe
+C:\Users\administarator\source\repos\LearningSP - .net4\LSP\obj\x86\Debug\LSP.pdb
