@@ -1,0 +1,9 @@
+name: 信息
+desc: 信息面板
+tiles:
+  - name: IPInfo
+    icon: 'mappin.and.ellipse'
+    backgroundColor: '#f50505'
+script-providers:
+  IPxinxi:
+    url: https://raw.githubusercontent.com/Jonah0x90/LearningSP/refs/heads/master/Resources/tite.js
