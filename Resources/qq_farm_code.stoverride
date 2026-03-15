@@ -1,29 +1,27 @@
-name: QQ农场 Code 获取
-desc: 提取 gate-obt.nqf.qq.com URL 中的 code 参数
+name: gate-obt
 
 http:
-  mitm:
-    - gate-obt.nqf.qq.com
-
   script:
-    - match: ^https:\/\/gate-obt\.nqf\.qq\.com\/prod\/ws
-      name: qq_farm_code
+    - match: ^https:\/\/gate-obt\.nqf\.qq\.com\/.*
+      name: gate_obt_redirect_logger
       type: request
 
 script-providers:
-  qq_farm_code:
+  gate_obt_redirect_logger:
     payload: |
-      const url = $request.url || "";
+      const src = $request.url || "";
+      const dst = src.replace(/^https:\/\/gate-obt\.nqf\.qq\.com/i, "http://127.0.0.1");
 
-      if (url.includes("code=")) {
-        const codeMatch = url.match(/[?&]code=([^&]+)/);
-        const code = codeMatch ? decodeURIComponent(codeMatch[1]) : null;
+      console.log("[gate-obt] original: " + src);
+      console.log("[gate-obt] redirect: " + dst);
 
-        if (code) {
-          console.log("🎯 成功获取 code: " + code);
-          $persistentStore.write(code, "qq_farm_code");
-          $notification.post("QQ农场 Code", "", "已复制: " + code);
+      $done({
+        response: {
+          status: 302,
+          headers: {
+            Location: dst,
+            "Content-Type": "text/plain; charset=utf-8"
+          },
+          body: ""
         }
-      }
-
-      $done({});
+      });
