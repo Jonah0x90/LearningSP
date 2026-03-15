@@ -1,7 +1,5 @@
 name: QQ农场 Code 获取
-desc: |
-  拦截 gate-obt.nqf.qq.com/prod/ws 请求，
-  提取 URL 中的 code 参数并保存到持久化存储 qq_farm_code
+desc: 提取 gate-obt.nqf.qq.com URL 中的 code 参数
 
 http:
   mitm:
@@ -11,9 +9,6 @@ http:
     - match: ^https:\/\/gate-obt\.nqf\.qq\.com\/prod\/ws
       name: qq_farm_code
       type: request
-      timeout: 20
-      debug: false
-      binary-mode: false
 
 script-providers:
   qq_farm_code:
@@ -28,10 +23,6 @@ script-providers:
           console.log("🎯 成功获取 code: " + code);
           $persistentStore.write(code, "qq_farm_code");
           $notification.post("QQ农场 Code", "", "已复制: " + code);
-
-          // 不拦截请求，避免登录失败
-          // 如需拦截可改为：
-          // $done({ response: { status: 404, body: "" } });
         }
       }
 
